@@ -1,0 +1,10 @@
+#----
+#You need to fill out each parameter like follows.
+#TARGET_IP="192.168.1.1"
+#TARGET_PORT="8080"
+#UPSTREAM="myServers"
+#----
+
+TARGET_IP=""
+TARGET_PORT=""
+UPSTREAM=""
